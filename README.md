@@ -1,5 +1,31 @@
 # Hacking Études 
 
+- https://labs.integrity.pt/articles/from-0-day-to-exploit-buffer-overflow-in-belkin-n750-cve-2014-1635/
+
+- https://web.archive.org/web/20121110045053/http://www.violentpython.org/wordpress/?
+
+- http://shell-storm.org/blog/A-binary-analysis-count-me-if-you-can/
+
+- https://samsclass.info/
+
+- https://blog.skullsecurity.org/
+
+- https://wiki.skullsecurity.org/Assembly
+
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+- https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+- https://github.com/justinsteven/dostackbufferoverflowgood
+
+- http://smashthestack.org/wargames.html
+
+- https://blog.skullsecurity.org/category/ctfs
+
+- https://beginners.re/
+
+- https://github.com/RPISEC/MBE
+
 - https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
 
 - https://overthewire.org/wargames/leviathan/

@@ -1,5 +1,37 @@
 # Hacking Études 
 
+- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
+
+- https://overthewire.org/wargames/leviathan/
+
+- https://overthewire.org/wargames/bandit/
+
+- http://opensecuritytraining.info/LifeOfBinaries.html
+
+- http://opensecuritytraining.info/IntroX86.html
+
+- http://www.myne-us.com/2010/08/from-0x90-to-0x4c454554-journey-into.html
+
+- https://www.reddit.com/r/AskNetsec/comments/5i73db/path_to_exploit_developer/db61ken/
+
+- https://www.sans.org/event/sans-europe-pen-test-special-2020/course/advanced-exploit-development-penetration-testers
+
+- https://github.com/tylerha97/awesome-reversing
+
+- http://www.pentest.guru/index.php/2016/01/28/best-books-tutorials-and-courses-to-learn-about-exploit-development/
+
+- http://security.cs.rpi.edu/courses/binexp-spring2015/
+
+- http://opensecuritytraining.info/Exploits1.html
+
+- https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+
+- http://opensecuritytraining.info/Exploits2.html
+
+- https://github.com/demi6od/Smashing_The_Browser
+
+- HackerSploit https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
+
 - https://samsclass.info/127/127_F19.shtml
 
 - https://github.com/r0hi7/BinExp
